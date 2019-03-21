@@ -1,4 +1,4 @@
-Welcome to My GoWorld!
+<h3>Welcome to My GoWorld!</h3>
 
 Here you can find simple programs in Go Programming Language.
 
@@ -8,5 +8,5 @@ You can find code samples in src directory.
 
 Have a nice coding!
 
-Onur GÖKER
-info@onurgoker.com
+<h4>Onur GÖKER</h4>
+<h5>Email: info[at]onurgoker.com</h5>
