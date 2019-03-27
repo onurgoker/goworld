@@ -9,4 +9,5 @@ You can find code samples in src directory.
 Have a nice coding!
 
 <h4>Onur GÖKER</h4>
-<h5>Email: info[at]onurgoker.com</h5>
+<h5><b>Email:</b> info[at]onurgoker.com</h5>
+<h5><b>Web:</b> https://www.onurgoker.com/</h5>
